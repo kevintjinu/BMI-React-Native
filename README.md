@@ -5,8 +5,11 @@ A basic BMI calculator Application using react-native
 This App based application was developed to calculate the BMI (Body Mass Index) of a person using his/her height (cm) and weight (kg). This application is made using javaScript in react-native stack for frontend. The following images will shows the different screens of the app:
 
 ![](img/Obese.png)
+<br>
 ![](img/healthy.png)
+<br>
 ![](img/Overweight.png)
+<br>
 ![](img/under.png)
 
 Go to command prompt.
